@@ -1,0 +1,22 @@
+{
+  "name": "oatmeal",
+  "version": "1.0.0",
+  "description": "react component",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeonaYoung/oatmeal.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "leonayang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LeonaYoung/oatmeal/issues"
+  },
+  "homepage": "https://github.com/LeonaYoung/oatmeal#readme"
+}
